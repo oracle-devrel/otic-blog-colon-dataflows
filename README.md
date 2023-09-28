@@ -34,7 +34,6 @@ The source code in ./colonfs has been packaged into a jar "oci-hdfs-colon-connec
 
 ```
 cd ./build
-
 zip -r archive.zip java version.txt
 ```
 
